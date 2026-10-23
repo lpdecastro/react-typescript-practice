@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-attachment: #f5f5f5;
+  color: #222222;
+}
+
+#root {
+  max-width: 650px;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+.search-input {
+  width: 100%;
+  padding: 12px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+.user-card {
+  background: white;
+  padding: 16px;
+  margin-bottom: 10px;
+  border: 1px solid #e5e5e5;
+  border-radius: 8px;
+}
+
+.user-card h3 {
+  margin: 0 0 8px;
+}
+
+.user-card p {
+  margin: 0;
+  color: #666;
+}

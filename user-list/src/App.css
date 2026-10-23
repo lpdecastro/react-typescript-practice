@@ -1,0 +1,31 @@
+.container {
+  max-width: 600px;
+  margin: 80px auto;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 24px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  background: white;
+  padding: 16px;
+  margin-bottom: 12px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+li p {
+  color: #666;
+  margin-bottom: 0;
+}
+
+.error {
+  color: red;
+}
